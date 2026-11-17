@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">30 дней ремонта</string>
+    <string name="tips_screen_title">30 дней ремонта</string>
+    <string name="tip_detail_screen_title">Совет дня</string>
+    <!-- %1$d — номер дня -->
+    <string name="tip_day">День %1$d</string>
+    <string name="navigate_back">Назад</string>
+    <string name="tip_image_description">Иллюстрация к совету</string>
+</resources>
