@@ -2,4 +2,22 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Цвета приложения -->
+    <color name="primary">#FFE0702A</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="screen_background">#FFF6F3EF</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="title_text">#FF2B2724</color>
+    <color name="secondary_text">#FF6B635C</color>
+
+    <!-- Цвета иллюстраций -->
+    <color name="tip_blue">#FF1E6FB8</color>
+    <color name="tip_green">#FF2E8B57</color>
+    <color name="tip_teal">#FF00897B</color>
+    <color name="tip_brown">#FF8D5B3E</color>
+    <color name="tip_red">#FFC0392B</color>
+    <color name="tip_yellow">#FFE0A100</color>
+    <color name="tip_purple">#FF7B4FA6</color>
+    <color name="tip_orange">#FFE0702A</color>
 </resources>

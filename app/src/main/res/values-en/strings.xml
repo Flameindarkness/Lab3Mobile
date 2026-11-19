@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">30 days of renovation</string>
+    <string name="tips_screen_title">30 days of renovation</string>
+    <string name="tip_detail_screen_title">Tip of the day</string>
+    <!-- %1$d — номер дня -->
+    <string name="tip_day">Day %1$d</string>
+    <string name="navigate_back">Back</string>
+    <string name="tip_image_description">Tip illustration</string>
+</resources>
